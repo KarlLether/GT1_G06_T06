@@ -1,0 +1,4 @@
+link web: https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
+Ngày tải: 7/11/2026
+link tải:  https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2024-01.parquet
+Điều kiện lọc: duration>0, distance>0, tốc độ trung bình 1-100 km/h, giữ lại 100 dòng đầu sau lọc, số dòng loại = 56551-100= 56451
